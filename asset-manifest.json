@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/vasylshpak/react-instagram/static/css/main.fcc6103c.chunk.css",
+    "main.js": "/vasylshpak/react-instagram/static/js/main.c8b54eaf.chunk.js",
+    "main.js.map": "/vasylshpak/react-instagram/static/js/main.c8b54eaf.chunk.js.map",
+    "runtime-main.js": "/vasylshpak/react-instagram/static/js/runtime-main.0e322e83.js",
+    "runtime-main.js.map": "/vasylshpak/react-instagram/static/js/runtime-main.0e322e83.js.map",
+    "static/css/2.bb342caa.chunk.css": "/vasylshpak/react-instagram/static/css/2.bb342caa.chunk.css",
+    "static/js/2.01203540.chunk.js": "/vasylshpak/react-instagram/static/js/2.01203540.chunk.js",
+    "static/js/2.01203540.chunk.js.map": "/vasylshpak/react-instagram/static/js/2.01203540.chunk.js.map",
+    "index.html": "/vasylshpak/react-instagram/index.html",
+    "precache-manifest.2ed56091420f69f245887d5263dfbe23.js": "/vasylshpak/react-instagram/precache-manifest.2ed56091420f69f245887d5263dfbe23.js",
+    "service-worker.js": "/vasylshpak/react-instagram/service-worker.js",
+    "static/css/2.bb342caa.chunk.css.map": "/vasylshpak/react-instagram/static/css/2.bb342caa.chunk.css.map",
+    "static/css/main.fcc6103c.chunk.css.map": "/vasylshpak/react-instagram/static/css/main.fcc6103c.chunk.css.map",
+    "static/media/init.css": "/vasylshpak/react-instagram/static/media/instagram-logo.4563937b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e322e83.js",
+    "static/css/2.bb342caa.chunk.css",
+    "static/js/2.01203540.chunk.js",
+    "static/css/main.fcc6103c.chunk.css",
+    "static/js/main.c8b54eaf.chunk.js"
+  ]
+}
